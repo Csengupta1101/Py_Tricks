@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 # Set the interval (in seconds) for moving the mouse
-interval = 5
+interval = 2
 
 try:
     while True:
